@@ -18,7 +18,7 @@ desktop apps, developer tooling, and lately a lot of AI-assisted workflows.
 - 💼 Fullstack developer, also available for freelance projects
 - 🧩 Mostly **TypeScript**: Angular, React and Vue on the front, Symfony and Node on the back
 - 🛠️ I like building tools that remove friction: for developers, and for everyone else
-- 🤖 Currently exploring AI agents and on-device speech recognition
+- 🤖 Always exploring new tech, especially AI: LLMs, agents, MCP and everything in between
 
 ## Featured projects
 
